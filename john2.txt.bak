@@ -1,1 +1,8 @@
 this is johnjohn
+
+this is john modify222222222222222222222222222222222222222222222222222222222222222yes
+<<<<<<< HEAD
+this is new member change
+=======
+this is old member change
+>>>>>>> 30caba748f8a2cf38d604cf65cb31b2c3ca810dc
